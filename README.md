@@ -1,5 +1,4 @@
 <div id="user-content-toc">
-<h6> De Filmervaring herdefiniëren met Voelbare Sensaties voor Doofpubliek. </h6>
   <ul>
     <summary><h1 style="display: inline-block;">Een Multizintuigelijke Benadering van Filmbeleving.</h1>
     </summary>
