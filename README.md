@@ -1,9 +1,10 @@
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">Een Multizintuigelijke Benadering van Filmbeleving.</h1></summary>
+    <summary><h1 style="display: inline-block;">Een Multizintuigelijke Benadering van Filmbeleving.</h1>
+    De Filmervaring herdefiniëren met Voelbare Sensaties voor Doofpubliek.
+    </summary>
   </ul>
 </div>
-De Filmervaring herdefiniëren met Voelbare Sensaties voor Doofpubliek.
 
 <img src="/docs/assets/imgs/readme-header-image.jpg" alt="." width="100%">
 
