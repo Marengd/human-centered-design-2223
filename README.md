@@ -20,7 +20,7 @@ Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie v
 Korte beschrijving.
 
 <details>
-<summary> #### Algemeen </summary>
+<summary> <h4> Algemeen </h4> </summary>
 ######  Heeft Marie voorbeelden van films of shows waarbij ze vond dat de gesloten ondertiteling bijzonder goed of slecht werkten? Zo ja, wat maakte het verschil in die gevallen?
 Marie gaf aan dat ze Netflix het beste vond qua gesloten ondertiteling, met series als "High on the Hog" en "Stranger Things" als goede voorbeelden. Ze vond de Nederlandse tv het slechtst, met wisselende kwaliteit en onduidelijkheden in de ondertiteling.
 
@@ -31,10 +31,8 @@ Marie's grootste frustraties met gesloten ondertiteling zijn onder andere het on
 Marie noemde een voorbeeld uit een aflevering van "Langs de zijderoute", waarin twee hoofdpersonen bellen met elkaar, maar de ondertiteling liet enkel de tekst "overlappende gesprekken" zien, waardoor ze niet wist wat er precies gebeurde in deze scène.
 </details>
 
-<br>
-
 <details>
-<summary> #### Onderscheid tussen sprekers en weergave van emoties.</summary>
+<summary> <h4> Onderscheid tussen sprekers en weergave van emoties. </h4> </summary>
 
 <br>
 
@@ -52,7 +50,7 @@ Marie vindt de weergave van emoties en intonatie in gesloten ondertiteling erg b
 
 
 <details>
-<summary> #### Beschrijving van geluidseffecten en achtergrondgeluiden.</summary>
+<summary> <h4> Beschrijving van geluidseffecten en achtergrondgeluiden. </h4> </summary>
 
 <br>
 
@@ -65,7 +63,7 @@ Marie zou graag meer beschrijvingen van geluidseffecten en achtergrondgeluiden i
 
 <details>
 
-<summary>#### Contextuele informatie en complexiteit.</summary>
+<summary> <h4> Contextuele informatie en complexiteit. </h4> </summary>
 
 
 <br>
@@ -82,7 +80,7 @@ Marie gaf aan dat er momenten zijn waarop ze extra contextuele informatie in de 
 
 <details>
 
-<summary> #### Leesbaarheid en aanpassingsmogelijkheden. </summary>
+<summary> <h4> Leesbaarheid en aanpassingsmogelijkheden. </h4> </summary>
 
 
 <br>
