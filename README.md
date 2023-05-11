@@ -13,7 +13,7 @@ Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie v
 <br>
 
 ## Probleemdefinitie
-...
+Korte beschrijving.
 
 ######  Heeft Marie voorbeelden van films of shows waarbij ze vond dat de gesloten ondertiteling bijzonder goed of slecht werkten? Zo ja, wat maakte het verschil in die gevallen?
 Marie gaf aan dat ze Netflix het beste vond qua gesloten ondertiteling, met series als "High on the Hog" en "Stranger Things" als goede voorbeelden. Ze vond de Nederlandse tv het slechtst, met wisselende kwaliteit en onduidelijkheden in de ondertiteling.
@@ -74,9 +74,9 @@ Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zo
 <br>
 
 ## Oplossing
-...
+Korte beschrijving.
 
-###### Verrijking van de filmervaring met haptische technologie.
+#### Verrijking van de filmervaring met haptische technologie.
 De filmervaring voor Marie kan worden verbeterd door gebruik te maken van haptische technologie. Deze technologie maakt gebruik van de trilfunctie in moderne telefoons, waardoor voelbare sensaties gecreëerd kunnen worden die synchroon lopen met de acties en gebeurtenissen in de film.
 
 Haptische technologie biedt de mogelijkheid om de filmervaring van Marie te verrijken. Door de trilfunctie van haar telefoon te gebruiken, kunnen voelbare sensaties worden toegevoegd die het gevoel van vallen, bevingen en andere intense scènes kunnen nabootsen.
@@ -90,7 +90,7 @@ Het doel van deze oplossing is om Marie dezelfde emotionele impact en betrokkenh
 Deze oplossing biedt mogelijkheden om de filmervaring te verrijken, meer nuance te bieden en dove kijkers een meer meeslepende ervaring te geven.
 
 ## Ervaar het zelf.
-...
+Korte beschrijving.
 
 <br>
 
