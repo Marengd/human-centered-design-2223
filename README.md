@@ -11,7 +11,7 @@ Dit is de repository van <a href="https://danianmarengo.nl">Danian Marengo</a> v
 
 <br>
 
-## Onderzoeksvraag
+## Onderzoeksvraag.
 Om inzicht te krijgen in het probleem.
 
 <br>
@@ -22,7 +22,7 @@ Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie v
 
 <br>
 
-## Probleemdefinitie
+## Probleemdefinitie.
 De uitdagingen van de huidige gesloten ondertiteling en de behoefte aan verbeteringen voor Marie.
 
 <br>
@@ -125,7 +125,7 @@ Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zo
 <br>
 <br>
 
-## Oplossing
+## Oplossing.
 De ontwikkelde oplossing om de filmervaring voor Marie te verbeteren.
 
 <br>
