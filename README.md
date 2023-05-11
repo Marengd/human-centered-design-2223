@@ -120,6 +120,9 @@ Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zo
 
 </details>
 
+<br>
+<br>
+
 ## Oplossing
 De ontwikkelde oplossing om de filmervaring voor Marie te verbeteren.
 
@@ -137,6 +140,9 @@ Het gebruik van haptische technologie in de filmervaring van Marie maakt gebruik
 Het doel van deze oplossing is om Marie dezelfde emotionele impact en betrokkenheid te laten ervaren tijdens het kijken naar films, vergelijkbaar met iemand die wel kan horen. De haptische technologie biedt de mogelijkheid om een intense en betekenisvolle filmervaring te creëren voor Marie.
 
 Deze oplossing biedt mogelijkheden om de filmervaring te verrijken, meer nuance te bieden en dove kijkers een meer meeslepende ervaring te geven.
+
+<br>
+<br>
 
 ## Ervaar het zelf.
 Korte beschrijving.
