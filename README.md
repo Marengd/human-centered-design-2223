@@ -18,20 +18,15 @@ Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie v
 ######  Heeft Marie voorbeelden van films of shows waarbij ze vond dat de gesloten ondertiteling bijzonder goed of slecht werkten? Zo ja, wat maakte het verschil in die gevallen?
 Marie gaf aan dat ze Netflix het beste vond qua gesloten ondertiteling, met series als "High on the Hog" en "Stranger Things" als goede voorbeelden. Ze vond de Nederlandse tv het slechtst, met wisselende kwaliteit en onduidelijkheden in de ondertiteling.
 
-<br>
-
 ###### Wat zijn de grootste frustraties of problemen van Marie met de huidige gesloten ondertiteling die ze gebruikt?
 Marie's grootste frustraties met gesloten ondertiteling zijn onder andere het ontbreken van namen van sprekers, geen beschrijving van omgevingsgeluiden, en inconsistentie in ondertiteling.
-
-<br>
 
 ###### Kan Marie een specifiek moment noemen waarop ze het gevoel had dat de gesloten ondertiteling niet voldoende informatie gaven over wat er in een scène gebeurde?
 Marie noemde een voorbeeld uit een aflevering van "Langs de zijderoute", waarin twee hoofdpersonen bellen met elkaar, maar de ondertiteling liet enkel de tekst "overlappende gesprekken" zien, waardoor ze niet wist wat er precies gebeurde in deze scène.
 
 <br>
-<br>
 
-### Onderscheid tussen sprekers en weergave van emoties.
+#### Onderscheid tussen sprekers en weergave van emoties.
 
 <br>
 
@@ -39,16 +34,13 @@ Marie noemde een voorbeeld uit een aflevering van "Langs de zijderoute", waarin 
 
 Marie heeft soms moeite met het onderscheiden van sprekers in een gesprek, vooral als de namen niet duidelijk zijn uitgeschreven in de ondertiteling.
 
-<br>
-
 ###### Hoe belangrijk vindt Marie de weergave van emoties en intonatie in gesloten ondertiteling? Zijn er momenten waarop ze dit aspect miste?
 
 Marie vindt de weergave van emoties en intonatie in gesloten ondertiteling erg belangrijk. Ze miste dit aspect bijvoorbeeld in gesprekken waarin de sfeer en emotie niet duidelijk waren.
 
 <br>
-<br>
 
-### Beschrijving van geluidseffecten en achtergrondgeluiden.
+#### Beschrijving van geluidseffecten en achtergrondgeluiden.
 
 <br>
 
@@ -56,9 +48,7 @@ Marie vindt de weergave van emoties en intonatie in gesloten ondertiteling erg b
 
 Marie zou graag meer beschrijvingen van geluidseffecten en achtergrondgeluiden in gesloten ondertiteling zien, zoals schietgeluiden of andere onverwachte geluiden die een schrikreactie kunnen veroorzaken.
 
-<br>
-
-### Contextuele informatie en complexiteit.
+#### Contextuele informatie en complexiteit.
 
 <br>
 
@@ -67,21 +57,16 @@ Marie zou graag meer beschrijvingen van geluidseffecten en achtergrondgeluiden i
 Marie gaf aan dat er momenten zijn waarop ze extra contextuele informatie in de gesloten ondertiteling zou waarderen. Bijvoorbeeld wanneer een film of serie verwijzingen naar andere werken of culturele aspecten bevat die zij misschien niet kent.
 
 <br>
-<br>
 
-### Leesbaarheid en aanpassingsmogelijkheden.
+#### Leesbaarheid en aanpassingsmogelijkheden.
 
 <br>
 
 ###### Hoe ervaart Marie het lezen van gesloten ondertiteling in termen van lettertype, grootte en kleur? Zijn er aspecten die ze graag anders zou zien?
 Marie ervaart over het algemeen geen problemen met het lezen van gesloten ondertiteling, maar zou het wel prettig vinden als ze de mogelijkheid had om het lettertype, de grootte en de kleur van de ondertiteling aan te passen aan haar eigen voorkeuren.
 
-<br>
-
 ###### Heeft Marie ooit problemen ondervonden met de timing of het tempo van gesloten ondertiteling? Zo ja, hoe beïnvloedde dit haar kijkervaring?
 Marie heeft in het verleden problemen ondervonden met de timing en het tempo van gesloten ondertiteling, vooral wanneer ondertitels te snel verschijnen of verdwijnen. Dit kan haar kijkervaring negatief beïnvloeden, omdat ze dan moeite heeft om de tekst bij te houden en het verhaal te volgen.
-
-<br>
 
 ###### Welke aanpassingsmogelijkheden zou Marie graag willen hebben bij het gebruik van gesloten ondertiteling, zoals lettergrootte, kleuren of weergave van emoties?
 Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zoals de mogelijkheid om lettergrootte, lettertype en kleuren aan te passen. Daarnaast zou ze het op prijs stellen als de weergave van emoties en intonatie beter werden geïntegreerd in de ondertiteling, zodat ze een beter begrip heeft van de sfeer en de emoties in een scène.
@@ -91,22 +76,17 @@ Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zo
 ## Oplossing
 ...
 
-###### Inleiding.
-De filmervaring voor dove kijkers kan worden verbeterd door gebruik te maken van haptische technologie. Deze technologie maakt gebruik van de trilfunctie in moderne telefoons, waardoor voelbare sensaties gecreëerd kunnen worden die synchroon lopen met de acties en gebeurtenissen in de film.
+###### Verrijking van de filmervaring met haptische technologie.
+De filmervaring voor Marie kan worden verbeterd door gebruik te maken van haptische technologie. Deze technologie maakt gebruik van de trilfunctie in moderne telefoons, waardoor voelbare sensaties gecreëerd kunnen worden die synchroon lopen met de acties en gebeurtenissen in de film.
 
-###### Integratie van haptische sensaties in de filmervaring.
 Haptische technologie biedt de mogelijkheid om de filmervaring van Marie te verrijken. Door de trilfunctie van haar telefoon te gebruiken, kunnen voelbare sensaties worden toegevoegd die het gevoel van vallen, bevingen en andere intense scènes kunnen nabootsen.
 
-###### Een meer meeslepende filmervaring.
 Door op specifieke punten in de film de juiste trillingspatronen aan te roepen, kan de impact van scènes worden versterkt en kan Marie een meer meeslepende filmervaring beleven. Deze toegevoegde haptische sensaties zorgen voor een verbeterde betrokkenheid en verrijken de filmervaring.
 
-###### Toeganlijk. 
 Het gebruik van haptische technologie in de filmervaring van Marie maakt gebruik van de technologie die al beschikbaar is in haar dagelijks gebruikte apparaat, de telefoon.
 
-###### Gelijke emotionele impact en betrokkenheid.
 Het doel van deze oplossing is om Marie dezelfde emotionele impact en betrokkenheid te laten ervaren tijdens het kijken naar films, vergelijkbaar met iemand die wel kan horen. De haptische technologie biedt de mogelijkheid om een intense en betekenisvolle filmervaring te creëren voor Marie.
 
-###### Een stap naar het verbetering van de filmervaring voor Marie.
 Deze oplossing biedt mogelijkheden om de filmervaring te verrijken, meer nuance te bieden en dove kijkers een meer meeslepende ervaring te geven.
 
 ## Ervaar het zelf.
