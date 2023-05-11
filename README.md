@@ -15,6 +15,8 @@ Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie v
 ## Probleemdefinitie
 Korte beschrijving.
 
+<details>
+<summary> #### Algemeen </summary>
 ######  Heeft Marie voorbeelden van films of shows waarbij ze vond dat de gesloten ondertiteling bijzonder goed of slecht werkten? Zo ja, wat maakte het verschil in die gevallen?
 Marie gaf aan dat ze Netflix het beste vond qua gesloten ondertiteling, met series als "High on the Hog" en "Stranger Things" als goede voorbeelden. Ze vond de Nederlandse tv het slechtst, met wisselende kwaliteit en onduidelijkheden in de ondertiteling.
 
@@ -23,10 +25,12 @@ Marie's grootste frustraties met gesloten ondertiteling zijn onder andere het on
 
 ###### Kan Marie een specifiek moment noemen waarop ze het gevoel had dat de gesloten ondertiteling niet voldoende informatie gaven over wat er in een scène gebeurde?
 Marie noemde een voorbeeld uit een aflevering van "Langs de zijderoute", waarin twee hoofdpersonen bellen met elkaar, maar de ondertiteling liet enkel de tekst "overlappende gesprekken" zien, waardoor ze niet wist wat er precies gebeurde in deze scène.
+</details>
 
 <br>
 
-#### Onderscheid tussen sprekers en weergave van emoties.
+<details>
+<summary> #### Onderscheid tussen sprekers en weergave van emoties.</summary>
 
 <br>
 
@@ -40,7 +44,11 @@ Marie vindt de weergave van emoties en intonatie in gesloten ondertiteling erg b
 
 <br>
 
-#### Beschrijving van geluidseffecten en achtergrondgeluiden.
+</details>
+
+
+<details>
+<summary> #### Beschrijving van geluidseffecten en achtergrondgeluiden.</summary>
 
 <br>
 
@@ -48,7 +56,13 @@ Marie vindt de weergave van emoties en intonatie in gesloten ondertiteling erg b
 
 Marie zou graag meer beschrijvingen van geluidseffecten en achtergrondgeluiden in gesloten ondertiteling zien, zoals schietgeluiden of andere onverwachte geluiden die een schrikreactie kunnen veroorzaken.
 
-#### Contextuele informatie en complexiteit.
+</details>
+
+
+<details>
+
+<summary>#### Contextuele informatie en complexiteit.</summary>
+
 
 <br>
 
@@ -58,7 +72,14 @@ Marie gaf aan dat er momenten zijn waarop ze extra contextuele informatie in de 
 
 <br>
 
-#### Leesbaarheid en aanpassingsmogelijkheden.
+</details>
+
+
+
+<details>
+
+<summary> #### Leesbaarheid en aanpassingsmogelijkheden. </summary>
+
 
 <br>
 
@@ -72,6 +93,8 @@ Marie heeft in het verleden problemen ondervonden met de timing en het tempo van
 Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zoals de mogelijkheid om lettergrootte, lettertype en kleuren aan te passen. Daarnaast zou ze het op prijs stellen als de weergave van emoties en intonatie beter werden geïntegreerd in de ondertiteling, zodat ze een beter begrip heeft van de sfeer en de emoties in een scène.
 
 <br>
+
+</details>
 
 ## Oplossing
 Korte beschrijving.
