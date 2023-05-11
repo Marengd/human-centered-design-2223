@@ -12,12 +12,16 @@ Dit is de repository van <a href="https://danianmarengo.nl">Danian Marengo</a> v
 <br>
 
 ## Onderzoeksvraag
+Om inzicht te krijgen in het probleem.
+
+<blockquote>
 Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie van Driessche, een dove persoon, te verbeteren en haar meer betekenisvolle informatie te bieden?
+</blockquote>
 
 <br>
 
 ## Probleemdefinitie
-Korte beschrijving.
+De uitdagingen van de huidige gesloten ondertiteling en de behoefte aan verbeteringen voor Marie.
 
 <details>
 <summary> <h4> Algemeen </h4> </summary>
@@ -99,9 +103,11 @@ Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zo
 </details>
 
 ## Oplossing
-Korte beschrijving.
+De ontwikkelde oplossing om de filmervaring voor Marie te verbeteren.
 
-#### Verrijking van de filmervaring met haptische technologie.
+<br>
+
+###### Verrijking van de filmervaring met haptische technologie.
 De filmervaring voor Marie kan worden verbeterd door gebruik te maken van haptische technologie. Deze technologie maakt gebruik van de trilfunctie in moderne telefoons, waardoor voelbare sensaties gecreëerd kunnen worden die synchroon lopen met de acties en gebeurtenissen in de film.
 
 Haptische technologie biedt de mogelijkheid om de filmervaring van Marie te verrijken. Door de trilfunctie van haar telefoon te gebruiken, kunnen voelbare sensaties worden toegevoegd die het gevoel van vallen, bevingen en andere intense scènes kunnen nabootsen.
