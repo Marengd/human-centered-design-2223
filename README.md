@@ -14,6 +14,8 @@ Dit is de repository van <a href="https://danianmarengo.nl">Danian Marengo</a> v
 ## Onderzoeksvraag
 Om inzicht te krijgen in het probleem.
 
+<br>
+
 <blockquote>
 Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie van Driessche, een dove persoon, te verbeteren en haar meer betekenisvolle informatie te bieden?
 </blockquote>
@@ -25,14 +27,22 @@ De uitdagingen van de huidige gesloten ondertiteling en de behoefte aan verbeter
 
 <details>
 <summary> <h4> Algemeen </h4> </summary>
+
+<br>
+
 ######  Heeft Marie voorbeelden van films of shows waarbij ze vond dat de gesloten ondertiteling bijzonder goed of slecht werkten? Zo ja, wat maakte het verschil in die gevallen?
 Marie gaf aan dat ze Netflix het beste vond qua gesloten ondertiteling, met series als "High on the Hog" en "Stranger Things" als goede voorbeelden. Ze vond de Nederlandse tv het slechtst, met wisselende kwaliteit en onduidelijkheden in de ondertiteling.
+
+<br>
 
 ###### Wat zijn de grootste frustraties of problemen van Marie met de huidige gesloten ondertiteling die ze gebruikt?
 Marie's grootste frustraties met gesloten ondertiteling zijn onder andere het ontbreken van namen van sprekers, geen beschrijving van omgevingsgeluiden, en inconsistentie in ondertiteling.
 
+<br>
+
 ###### Kan Marie een specifiek moment noemen waarop ze het gevoel had dat de gesloten ondertiteling niet voldoende informatie gaven over wat er in een scène gebeurde?
 Marie noemde een voorbeeld uit een aflevering van "Langs de zijderoute", waarin twee hoofdpersonen bellen met elkaar, maar de ondertiteling liet enkel de tekst "overlappende gesprekken" zien, waardoor ze niet wist wat er precies gebeurde in deze scène.
+
 </details>
 
 <details>
@@ -43,6 +53,8 @@ Marie noemde een voorbeeld uit een aflevering van "Langs de zijderoute", waarin 
 ###### Heeft Marie ooit moeite gehad om onderscheid te maken tussen verschillende sprekers in een gesprek vanwege de gesloten ondertiteling? Zo ja, kan ze een voorbeeld geven?
 
 Marie heeft soms moeite met het onderscheiden van sprekers in een gesprek, vooral als de namen niet duidelijk zijn uitgeschreven in de ondertiteling.
+
+<br>
 
 ###### Hoe belangrijk vindt Marie de weergave van emoties en intonatie in gesloten ondertiteling? Zijn er momenten waarop ze dit aspect miste?
 
@@ -61,6 +73,8 @@ Marie vindt de weergave van emoties en intonatie in gesloten ondertiteling erg b
 ###### Zijn er specifieke geluidseffecten of achtergrondgeluiden die Marie graag beschreven zou willen zien in de gesloten ondertiteling?
 
 Marie zou graag meer beschrijvingen van geluidseffecten en achtergrondgeluiden in gesloten ondertiteling zien, zoals schietgeluiden of andere onverwachte geluiden die een schrikreactie kunnen veroorzaken.
+
+<br>
 
 </details>
 
@@ -92,8 +106,12 @@ Marie gaf aan dat er momenten zijn waarop ze extra contextuele informatie in de 
 ###### Hoe ervaart Marie het lezen van gesloten ondertiteling in termen van lettertype, grootte en kleur? Zijn er aspecten die ze graag anders zou zien?
 Marie ervaart over het algemeen geen problemen met het lezen van gesloten ondertiteling, maar zou het wel prettig vinden als ze de mogelijkheid had om het lettertype, de grootte en de kleur van de ondertiteling aan te passen aan haar eigen voorkeuren.
 
+<br>
+
 ###### Heeft Marie ooit problemen ondervonden met de timing of het tempo van gesloten ondertiteling? Zo ja, hoe beïnvloedde dit haar kijkervaring?
 Marie heeft in het verleden problemen ondervonden met de timing en het tempo van gesloten ondertiteling, vooral wanneer ondertitels te snel verschijnen of verdwijnen. Dit kan haar kijkervaring negatief beïnvloeden, omdat ze dan moeite heeft om de tekst bij te houden en het verhaal te volgen.
+
+<br>
 
 ###### Welke aanpassingsmogelijkheden zou Marie graag willen hebben bij het gebruik van gesloten ondertiteling, zoals lettergrootte, kleuren of weergave van emoties?
 Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zoals de mogelijkheid om lettergrootte, lettertype en kleuren aan te passen. Daarnaast zou ze het op prijs stellen als de weergave van emoties en intonatie beter werden geïntegreerd in de ondertiteling, zodat ze een beter begrip heeft van de sfeer en de emoties in een scène.
