@@ -25,6 +25,8 @@ Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie v
 ## Probleemdefinitie
 De uitdagingen van de huidige gesloten ondertiteling en de behoefte aan verbeteringen voor Marie.
 
+<br>
+
 <details>
 <summary> <h4> Algemeen </h4> </summary>
 
@@ -145,7 +147,7 @@ Deze oplossing biedt mogelijkheden om de filmervaring te verrijken, meer nuance 
 <br>
 
 ## Ervaar het zelf.
-Korte beschrijving.
+Installatiegids voor de app en ervaar de verrijkte filmervaring met haptische technologie.
 
 <br>
 
