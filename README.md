@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">Een Multizintuigelijke Benadering van Filmbeleving.</h1>
+    <summary><h1 style="display: inline-block;">Een Multizintuigelijke Benadering van Filmbeleving</h1>
     </summary>
   </ul>
 </div>
@@ -11,7 +11,7 @@ Dit is de repository van <a href="https://danianmarengo.nl">Danian Marengo</a> v
 
 <br>
 
-## Onderzoeksvraag.
+## Onderzoeksvraag
 Om inzicht te krijgen in het probleem.
 
 <br>
@@ -22,7 +22,7 @@ Hoe kunnen we de gesloten ondertiteling verrijken om de filmervaring van Marie v
 
 <br>
 
-## Probleemdefinitie.
+## Probleemdefinitie
 De uitdagingen van de huidige gesloten ondertiteling en de behoefte aan verbeteringen voor Marie.
 
 <br>
@@ -125,12 +125,12 @@ Marie zou graag meer aanpassingsmogelijkheden zien in gesloten ondertiteling, zo
 <br>
 <br>
 
-## Oplossing.
+## Oplossing
 De ontwikkelde oplossing om de filmervaring voor Marie te verbeteren.
 
 <br>
 
-###### Verrijking van de filmervaring met haptische technologie.
+###### Verrijking van de filmervaring met haptische technologie
 De filmervaring voor Marie kan worden verbeterd door gebruik te maken van haptische technologie. Deze technologie maakt gebruik van de trilfunctie in moderne telefoons, waardoor voelbare sensaties gecreëerd kunnen worden die synchroon lopen met de acties en gebeurtenissen in de film.
 
 Haptische technologie biedt de mogelijkheid om de filmervaring van Marie te verrijken. Door de trilfunctie van haar telefoon te gebruiken, kunnen voelbare sensaties worden toegevoegd die het gevoel van vallen, bevingen en andere intense scènes kunnen nabootsen.
@@ -146,7 +146,7 @@ Deze oplossing biedt mogelijkheden om de filmervaring te verrijken, meer nuance 
 <br>
 <br>
 
-## Ervaar het zelf.
+## Ervaar het zelf
 Installatiegids voor de app en ervaar de verrijkte filmervaring met haptische technologie.
 
 <br>
