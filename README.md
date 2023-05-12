@@ -157,19 +157,20 @@ Ga naar de App Store op uw telefoon. Zoek naar "Expo Go" en download en installe
 
 <br>
 
-###### Stap 3.
+###### Stap 2.
 Ga naar onderstaande link in de webbrowser, op een ander apparaat. Deze link brengt u naar een webpagina waar een QR code wordt weergegeven.
 
 ```shell
 
 # Link naar Qr code.
+
 https://expo.dev/@mawrengow/Testing_With_Marie?serviceType=classic&distribution=expo-go
 
 ```
 
 <br>
 
-###### Stap 4.
+###### Stap 3.
 Open de Camera App op uw apparaat en richt de camera naar de QR code op het scherm. 
 
 Zorg ervoor dat de gehele QR code zichtbaar is in het kader van de camera.
