@@ -150,26 +150,45 @@ Deze oplossing biedt mogelijkheden om de filmervaring te verrijken, meer nuance 
 Installatiegids voor de app en ervaar de verrijkte filmervaring met haptische technologie.
 
 <br>
+<br>
 
+###### Stap 1.
+Ga naar de App Store op uw telefoon. Zoek naar "Expo Go" en download en installeer deze app op uw apparaat.
+
+<br>
+
+###### Stap 3.
+Ga naar onderstaande link in de webbrowser, op een ander apparaat. Deze link brengt u naar een webpagina waar een QR code wordt weergegeven.
 
 ```shell
 
-# Stap 1
-...
-
-# Stap 2
-...
-
-# Stap 3
-...
-
-# Stap 4
-...
-
-# Stap 5
-...
+# Link naar Qr code.
+https://expo.dev/@mawrengow/Testing_With_Marie?serviceType=classic&distribution=expo-go
 
 ```
+
+<br>
+
+###### Stap 4.
+Open de Camera App op uw apparaat en richt de camera naar de QR code op het scherm. 
+
+Zorg ervoor dat de gehele QR code zichtbaar is in het kader van de camera.
+
+
+<br>
+
+###### Stap 4.
+Volg de doorverwijzing naar de Expo Go app.
+Tik op de melding die verschijnt nadat u de QR code heeft gescand.
+
+Deze actie zou u automatisch moeten doorverwijzen naar de Expo Go applicatie.
+
+<br>
+
+###### Stap 5.
+Zodra de Expo Go app opent, zou u toegang moeten hebben tot het prototype en kunt u de verrijkte filmervaring, zelf ervaren.
+
+
 <br>
 <br>
 
